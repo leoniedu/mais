@@ -75,8 +75,8 @@ programação](https://en.wikipedia.org/wiki/Best_coding_practices) na
 linguagem de sua preferência, e os dados devem ser tratados garantindo
 que:
 
-- As colunas seguem as [diretrizes Base dos Dados](/style_namind_columns)
-- Os valores seguem as [diretrizes Base dos Dados](/style_data)
+- As colunas seguem as [diretrizes Base dos Dados](/style_naming_columns/)
+- Os valores seguem as [diretrizes Base dos Dados](/style_data/)
 
 !!! Tip "Sugerimos as linguagens [Python](https://www.python.org/), [R](https://www.r-project.org/), ou [Stata](https://www.stata.com/)."
 
